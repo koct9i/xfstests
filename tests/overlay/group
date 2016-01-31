@@ -4,3 +4,4 @@
 # do not start group name with a digit
 #
 001 perms auto quick
+002 auto quick metadata
